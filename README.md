@@ -9,3 +9,4 @@
     - Transform.scale() + Transform.translate() + Offset으로 아이콘이 overflow하게 사이즈가 커지지만 container 밖으로 나가지 않도록 구현.
 <br>
 <h2>Second_chall</h2>
+<img width="302" alt="image" src="https://github.com/hyunwookoo13/Nomad_UI/assets/97423451/0f773232-b8ec-42dd-80c1-1ac530c3bcfb">
