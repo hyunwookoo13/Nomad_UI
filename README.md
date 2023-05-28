@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving?text=UI%Practice) 
+![header](https://capsule-render.vercel.app/api?type=waving) 
 
 ## first_chall
 <img width="302" alt="image" src="https://github.com/hyunwookoo13/Nomad_UI/assets/97423451/94371af0-ff63-4f18-8a05-999629e51b60">
