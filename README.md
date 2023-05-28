@@ -2,7 +2,7 @@
 Practice UI 
 
 ## first_chall
-<img width="266" alt="스크린샷 2023-05-27 오후 11 01 32" src="https://github.com/hyunwookoo13/Nomad/assets/97423451/82e65e79-ac2b-4abe-b3bf-cfcaed40fd1c">
+<img width="302" alt="image" src="https://github.com/hyunwookoo13/Nomad_UI/assets/97423451/94371af0-ff63-4f18-8a05-999629e51b60">
 
 1. Row/Column/padding/mainAxisAlignment/crossAxisAlignment 사용
 2. Transfer/Request 버튼 커스터마이징해서 사용하기
